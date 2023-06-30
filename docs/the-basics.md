@@ -1,5 +1,5 @@
 ---
-id: the-basics
+id: 378927b8-ce32-46d6-9e1a-42aae13608be
 title: The Basics
 sidebar_label: The Basics
 slug: /
